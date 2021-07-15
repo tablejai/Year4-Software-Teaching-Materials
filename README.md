@@ -1,4 +1,7 @@
 # Year4-Software-Teaching-Materials
+
+PPT: https://docs.google.com/presentation/u/1/d/101PdlXcmCSi3J96vaH41T_sKBBAEO43b2kDI1eFBTAQ
+
 ## Syllabus
 ### Arduino Programming
 * Review C++ Basics (5 minutes)
