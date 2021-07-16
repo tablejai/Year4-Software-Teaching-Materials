@@ -28,7 +28,7 @@ PPT: https://docs.google.com/presentation/u/1/d/101PdlXcmCSi3J96vaH41T_sKBBAEO43
 * https://github.com/HKUST-Robocon/Software-Tutorial-2020/tree/master/Even%20More%20Advanced%20Tutorial%201%20-%20Git
 
 ### TODO
-* Finalise class size
-* Order boards
-* Discuss/find/collect components
+- [x] Finalise class size
+- [x] Order boards
+- [x] Discuss/find/collect components
 
