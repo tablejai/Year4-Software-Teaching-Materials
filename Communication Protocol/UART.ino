@@ -15,7 +15,7 @@ void getTFminiData(int* distance, int* strength) {
       for(j = 0; j < 8; j++) {
         checksum += rx[j];
       }
-      if (rx[8] == (checksum >> 8) & 1) {
+      if (rx[8] == (checksum & 0xFF)) {
         *distance = rx[2] + rx[3] << 8;
         *strength = rx[4] + rx[5] << 8;
       }
@@ -23,7 +23,7 @@ void getTFminiData(int* distance, int* strength) {
     } else {
       i++;
     } 
-  }  
+  }
 }
 
 void setup() {
